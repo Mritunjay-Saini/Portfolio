@@ -18,18 +18,17 @@ const Home = () => {
 
       {/* Headline */}
       <h1 className="text-3xl md:text-4xl font-bold leading-snug">
-        I do <span className="text-black">code</span> and<br />
-        <span className="text-black">make content </span>
+
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-pink-500 to-purple-600">
-          about it!
+          WEB DEVELOPER
         </span>
       </h1>
 
       {/* Subheadline */}
       <p className="text-gray-600 max-w-xl mt-4 text-sm md:text-base">
-        I am a seasoned full-stack software engineer with over 8 years of professional experience,
-        specializing in backend development. My expertise lies in crafting robust and scalable SaaS-based
-        architectures on the Amazon AWS platform.
+        I am a highly motivated and detail-oriented aspiring Full-Stack Software Engineer with a strong foundation 
+        in backend development. Although I am a fresher, I bring hands-on experience through academic projects, 
+        internships, and self-driven learning in building scalable web applications and cloud-based solutions.
       </p>
 
       {/* Buttons */}
@@ -38,13 +37,21 @@ const Home = () => {
           Get In Touch
         </button> */}
 
-        <a
-          href="/resume.pdf"
-          download
-          className="bg-black text-white px-6 py-2 rounded-full font-medium hover:bg-gray-700 transition text-center"
-        >
-          Download CV
-        </a>
+        {/* <a
+  href="/Mritunjay Saini Resume.pdf"
+  download="Resume.pdf"
+  className="bg-black text-white px-6 py-2 rounded-full font-medium hover:bg-gray-700 transition text-center"
+>
+  Download CV
+</a> */}
+<a
+  href="/Resume.pdf"
+  download
+  className="bg-black text-white px-6 py-2 rounded-full font-medium hover:bg-gray-700 transition text-center"
+>
+  Download CV
+</a>
+
       </div>
 
       {/* Tech Stack */}
