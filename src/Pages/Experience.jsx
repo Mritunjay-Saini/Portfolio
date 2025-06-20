@@ -13,13 +13,16 @@ const Experience = () => {
           <img src={googleIcon} alt="Google" className="h-8 w-8 mt-1" />
           <div className="flex-1">
             <div className="flex justify-between">
-              <h3 className="text-lg font-semibold">Lead Software Engineer at Google</h3>
-              <span className="text-sm text-gray-400">Nov 2019 – Present</span>
+              <h3 className="text-lg font-semibold">Grass Solution Pvt. Ltd.</h3>
+              <span className="text-sm text-gray-400"> 1 June 2023-20 August 2023</span>
             </div>
             <p className="text-gray-400 mt-2 text-sm">
-              As a Senior Software Engineer at Google, I played a pivotal role in developing innovative solutions
-              for Google’s core search algorithms. Collaborating with a dynamic team of engineers, I contributed
-              to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.
+              Full Stack Development Internship<br></br>
+Domain: MERN Stack<br></br>
+During my internship at Grass Solution Pvt. Ltd., I gained practical experience in full stack web development using the MERN stack
+ (MongoDB, Express.js, React.js, Node.js). I worked on building dynamic user interfaces, implementing RESTful APIs, and integrating
+  frontend with backend services
+
             </p>
           </div>
         </div>
@@ -29,13 +32,14 @@ const Experience = () => {
           <img src={appleIcon} alt="Apple" className="h-8 w-8 mt-1" />
           <div className="flex-1">
             <div className="flex justify-between">
-              <h3 className="text-lg font-semibold">Junior Software Engineer at Apple</h3>
-              <span className="text-sm text-gray-400">Jan 2016 – Dec 2017</span>
+              <h3 className="text-lg font-semibold">GIP Technologies Pvt. Ltd </h3>
+              <span className="text-sm text-gray-400"> 5 June 2023-20 July 2023</span>
             </div>
             <p className="text-gray-400 mt-2 text-sm">
-              At Apple, I held the role of Software Architect, playing a key role in shaping the architecture
-              of mission-critical software projects. I was responsible for designing scalable and efficient systems,
-              and provided technical leadership to cross-functional teams.
+              Role: Frontend Developer Internship<br></br>
+Key Skills:  HTML ,CSS ,Javascript and ReactJS <br></br>
+The best web hosting company in India - Global IT Providers - a platform that facilitates choice, simplicity & performance.
+ A dedicated server hosting provider, to facilitate you stay focused on what you do best, win as an individual .
             </p>
           </div>
         </div>
