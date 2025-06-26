@@ -24,6 +24,13 @@ const About = () => {
         <p className="text-gray-700 text-base md:text-lg leading-relaxed mt-4">
           When I’m not coding, you’ll find me exploring new tech trends, helping others learn, or working on side projects that challenge and inspire me.
         </p>
+           <p className="text-gray-700 text-base md:text-lg leading-relaxed mt-4">
+            <p className="text-gray-700 text-base md:text-lg leading-relaxed mt-4">
+           sainimritunjay2003@gmail.com
+        </p>
+            <p className="text-gray-700 text-base md:text-lg leading-relaxed mt-4">
+           9950677356
+        </p>
       </div>
     </section>
   );
